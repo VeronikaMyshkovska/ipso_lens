@@ -1,6 +1,6 @@
-# ipso_lens
+# IpsoLens
 
-A new Flutter project.
+AI mobile app
 
 ## Getting Started
 
