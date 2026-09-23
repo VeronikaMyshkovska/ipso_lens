@@ -4,13 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IpsoLens is a personal AI defender against fraud, spam, and hostile psychological operations (IPSO) that automatically analyzes incoming SMS and allows you to upload screenshots from messengers (Telegram, Viber, OLX, etc.) directly into a chat with the AI to detect manipulation, phishing, or deepfake texts, providing a clear Risk Score (%) alongside an explanation of the threats.
